@@ -1,16 +1,72 @@
 [
   {
-    "id": "879d114d-003a-4930-b1b4-c73a4c7a947c",
-    "merchant_name": "Gyle Shopping Centre",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/879d114d-003a-4930-b1b4-c73a4c7a947c/v1/gyleshoppingcentre.jpeg",
-    "slug": "gyleshoppingcentre",
-    "url": "https://www.gyleshopping.com"
+    "id": "bb8fd386-4e71-48c8-9a2f-139d5e795714",
+    "merchant_name": "Oppa",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/bb8fd386-4e71-48c8-9a2f-139d5e795714/v1/oppa.jpeg",
+    "slug": "oppa",
+    "url": "https://www.facebook.com"
   },
   {
-    "id": "e204e655-d759-4427-91f9-68c71973cd89",
-    "merchant_name": "ANZ",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/e204e655-d759-4427-91f9-68c71973cd89/v1/anz.jpeg",
-    "slug": "anz",
-    "url": "https://www.anz.com.au"
+    "id": "5065e4f9-4278-45e2-ba71-b47cf865e9d9",
+    "merchant_name": "PJA Distribution",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/5065e4f9-4278-45e2-ba71-b47cf865e9d9/v1/pjadistribution.jpeg",
+    "slug": "pjadistribution",
+    "url": "https://www.pjadistribution.co.uk"
+  },
+  {
+    "id": "ee956e57-3f60-46d6-9484-10a054953518",
+    "merchant_name": "Twitch",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/ee956e57-3f60-46d6-9484-10a054953518/v1/twitch.jpeg",
+    "slug": "twitch",
+    "url": "https://www.twitch.tv"
+  },
+  {
+    "id": "f82eff89-f0ac-4a1b-bab7-15843052ba7a",
+    "merchant_name": "Day-Today",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/f82eff89-f0ac-4a1b-bab7-15843052ba7a/v1/daytoday.jpeg",
+    "slug": "daytoday",
+    "url": "https://www.day-today.co.uk"
+  },
+  {
+    "id": "fcab79d9-20ca-4868-91a9-2eb447a1ddb0",
+    "merchant_name": "LeasePlan",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/fcab79d9-20ca-4868-91a9-2eb447a1ddb0/v1/leaseplan.jpeg",
+    "slug": "leaseplan",
+    "url": "https://www.leaseplan.com"
+  },
+  {
+    "id": "b785ee3f-1e4e-4039-95f2-605a4c3798f7",
+    "merchant_name": "Curvissa",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/b785ee3f-1e4e-4039-95f2-605a4c3798f7/v1/curvissa.jpeg",
+    "slug": "curvissa",
+    "url": "https://www.curvissa.co.uk"
+  },
+  {
+    "id": "039ab9c2-8e29-4fc0-8469-45f36a89c296",
+    "merchant_name": "Cardtronics UK",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/039ab9c2-8e29-4fc0-8469-45f36a89c296/v1/cardtronicsuk.jpeg",
+    "slug": "cardtronicsuk",
+    "url": "https://www.cardtronics-uk.com"
+  },
+  {
+    "id": "32665ed6-986b-414f-875a-a94eb83341b9",
+    "merchant_name": "SYN.KA Super Markets",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/32665ed6-986b-414f-875a-a94eb83341b9/v1/synkasupermarkets.jpeg",
+    "slug": "synkasupermarkets",
+    "url": "https://www.synka-sm.gr"
+  },
+  {
+    "id": "cb43e583-2e50-489e-8bd1-05aa9546c7ca",
+    "merchant_name": "Affect Energy",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/cb43e583-2e50-489e-8bd1-05aa9546c7ca/v1/affectenergy.jpeg",
+    "slug": "affectenergy",
+    "url": "https://affectenergy.com"
+  },
+  {
+    "id": "bd05f227-57d5-4700-85dc-0ef339da3cee",
+    "merchant_name": "Eduspot",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/bd05f227-57d5-4700-85dc-0ef339da3cee/v1/eduspot.jpeg",
+    "slug": "eduspot",
+    "url": "https://eduspot.co.uk"
   }
 ]
