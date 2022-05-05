@@ -1,72 +1,71 @@
 [
   {
-    "id": "240d7031-9bc0-4bec-9cb8-6e5e79e3158c",
-    "merchant_name": "Lindt & Spr\u00fcngli",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/240d7031-9bc0-4bec-9cb8-6e5e79e3158c/v1/lindt_and_sprngli.jpeg",
-    "slug": "lindt_and_sprngli",
-    "url": "https://www.lindt-spruengli.com"
+    "id": "8370be2c-5620-4b30-af6e-1f3180bdb389",
+    "merchant_name": "Center Parcs",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/8370be2c-5620-4b30-af6e-1f3180bdb389/v1/centerparcs.jpeg",
+    "slug": "centerparcs",
+    "url": "https://www.centerparcs.co.uk"
   },
   {
-    "id": "71bea721-037e-4ad7-bbd9-e2b62531d259",
-    "merchant_name": "Beauty Bay",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/71bea721-037e-4ad7-bbd9-e2b62531d259/v1/beautybay.jpeg",
-    "slug": "beautybay",
-    "url": "https://www.beautybay.com"
+    "id": "a5093c61-2946-4db0-8216-c94badcd02a4",
+    "merchant_name": "Cooperative Energy",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/a5093c61-2946-4db0-8216-c94badcd02a4/v1/cooperative_energy.jpeg",
+    "slug": "cooperative_energy"
   },
   {
-    "id": "3f7b9c8b-ca04-4ab4-a5f5-ed7b716c0e04",
-    "merchant_name": "Barnes & Noble",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/3f7b9c8b-ca04-4ab4-a5f5-ed7b716c0e04/v1/barnes_and_noble.jpeg",
-    "slug": "barnes_and_noble",
-    "url": "https://www.barnesandnoble.com"
+    "id": "fb04dab9-5113-427f-a118-0f7eb88316e5",
+    "merchant_name": "Budget Insurance",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/fb04dab9-5113-427f-a118-0f7eb88316e5/v1/budgetinsurance.jpeg",
+    "slug": "budgetinsurance",
+    "url": "https://www.budgetinsurance.com"
   },
   {
-    "id": "e257e582-322e-4cee-b5e3-ca1e9eb23c41",
-    "merchant_name": "Wok & Go",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/e257e582-322e-4cee-b5e3-ca1e9eb23c41/v1/wok_and_go.jpeg",
-    "slug": "wok_and_go",
-    "url": "https://www.wokandgo.co.uk"
+    "id": "b87d1f0e-f58f-43f5-b22d-0cd0a84387ce",
+    "merchant_name": "Parsons Bakery",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/b87d1f0e-f58f-43f5-b22d-0cd0a84387ce/v1/parsonsbakery.jpeg",
+    "slug": "parsonsbakery",
+    "url": "https://www.parsonsbakery.co.uk"
   },
   {
-    "id": "20372b2d-aa88-416d-a036-372e736cc5b5",
-    "merchant_name": "Spokes Cycles",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/20372b2d-aa88-416d-a036-372e736cc5b5/v1/spokescycles.jpeg",
-    "slug": "spokescycles",
-    "url": "https://www.spokescycles.net"
+    "id": "6057215c-f33a-4f72-b810-4f36f5b274f3",
+    "merchant_name": "Vanquis Bank",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/6057215c-f33a-4f72-b810-4f36f5b274f3/v1/vanquisbank.jpeg",
+    "slug": "vanquisbank",
+    "url": "https://www.vanquis.co.uk"
   },
   {
-    "id": "dde41355-1045-476a-87a4-ccb6f2693832",
-    "merchant_name": "Coal Grill & Bar",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/dde41355-1045-476a-87a4-ccb6f2693832/v1/coalgrill_and_bar.jpeg",
-    "slug": "coalgrill_and_bar",
-    "url": "https://www.facebook.com"
+    "id": "fdf6adc6-792f-4600-b0df-ccf5f221f061",
+    "merchant_name": "WWF",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/fdf6adc6-792f-4600-b0df-ccf5f221f061/v1/wwf.jpeg",
+    "slug": "wwf",
+    "url": "https://www.wwf.org.uk"
   },
   {
-    "id": "9295ce03-2d50-427d-abc7-cdd94f7efdf3",
-    "merchant_name": "trainline",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/9295ce03-2d50-427d-abc7-cdd94f7efdf3/v1/trainline.jpeg",
-    "slug": "trainline",
-    "url": "https://www.thetrainline.com"
+    "id": "378b8435-113f-40fd-b42f-e29f1a771aa5",
+    "merchant_name": "Dusk",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/378b8435-113f-40fd-b42f-e29f1a771aa5/v1/dusk.jpeg",
+    "slug": "dusk",
+    "url": "https://dusk.com"
   },
   {
-    "id": "5cbaf629-f418-4f66-aaaf-8ce5f0f0fc8a",
-    "merchant_name": "The Company Shop Group",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/5cbaf629-f418-4f66-aaaf-8ce5f0f0fc8a/v1/thecompanyshopgroup.jpeg",
-    "slug": "thecompanyshopgroup",
-    "url": "https://www.companyshopgroup.co.uk"
+    "id": "8ee71466-1e7a-4d80-bf5a-a3fd42ec9e44",
+    "merchant_name": "Shell Energy",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/8ee71466-1e7a-4d80-bf5a-a3fd42ec9e44/v1/shellenergy.jpeg",
+    "slug": "shellenergy",
+    "url": "https://www.shellenergy.co.uk"
   },
   {
-    "id": "4921f5cb-a427-4215-b853-4f17f34623ca",
-    "merchant_name": "Allianz Insurance",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/4921f5cb-a427-4215-b853-4f17f34623ca/v1/allianzinsurance.jpeg",
-    "slug": "allianzinsurance",
-    "url": "https://www.allianz.co.uk"
+    "id": "893f1606-fe1f-466e-b2da-d7d35a328125",
+    "merchant_name": "Homesense",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/893f1606-fe1f-466e-b2da-d7d35a328125/v1/homesense.jpeg",
+    "slug": "homesense",
+    "url": "https://www.homesense.com"
   },
   {
-    "id": "2c1f2777-bfc6-455d-aafb-7cd9aef1272a",
-    "merchant_name": "best-one",
-    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/2c1f2777-bfc6-455d-aafb-7cd9aef1272a/v1/bestone.jpeg",
-    "slug": "bestone",
-    "url": "https://www.best-one.co.uk"
+    "id": "9ffee5a4-8769-4470-a7cd-cb9eb4576a5a",
+    "merchant_name": "Wandsworth Borough Council",
+    "logo": "https://assets.thisisbud.com/bud-datasci-images/merchant_logos/9ffee5a4-8769-4470-a7cd-cb9eb4576a5a/v1/wandsworthboroughcouncil.jpeg",
+    "slug": "wandsworthboroughcouncil",
+    "url": "https://www.wandsworth.gov.uk"
   }
 ]
